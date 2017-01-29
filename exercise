@@ -88,8 +88,12 @@ function build {
 }
 
 function deploy {
-    ssh namenode "if [ -d $host_home/$ex_name ]; then rm -rf $host_home/$ex_name; fi"
-    scp -r "$ex_dir" "$host_name:$host_home/$ex_name"
+    if [ "$1" == "--scp" ]; then
+        ssh namenode "if [ -d $host_home/$ex_name ]; then rm -rf $host_home/$ex_name; fi"
+        scp -r "$ex_dir" "$host_name:$host_home/$ex_name"
+        return
+    fi
+    rsync --progress -r "$ex_dir" "$host_name:$host_home/$ex_name"
 }
 
 function usage {
