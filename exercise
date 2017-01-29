@@ -10,6 +10,8 @@ prefix="exercise"
 host_name="namenode"
 host_home="~/"
 
+editor="vim"
+
 
 function create {
     templates=$(ls $template_dir)
