@@ -14,4 +14,4 @@ hdfs dfs -copyFromLocal "$base_dir/exercise4_data" /exercise4_data
 
 # Run application
 hadoop jar "$base_dir/target/exercise4-1.0.0.jar" com.alangiu.bigdata.hadoop.DriverImpl \
-                                                1 /exercise4_data  /exercise4_out
+                                                1 /exercise4_data  /exercise4_out 40.5

@@ -14,48 +14,57 @@ import org.apache.hadoop.util.ToolRunner;
 
 public class DriverImpl extends Configured implements Tool {
 
-  @Override
-  public int run(String[] args) throws Exception {
+	static final protected String THRESHOLD = "THRESHOLD";
 
-    Path inputPath;
-    Path outputDir;
-    int numberOfReducers;
-	
-    numberOfReducers = Integer.parseInt(args[0]);
-    inputPath = new Path(args[1]);
-    outputDir = new Path(args[2]);
-    
-    Configuration conf = this.getConf();
+	@Override
+	public int run(String[] args) throws Exception {
 
-    Job job = Job.getInstance(conf); 
-    job.setJobName("exercise4");
-    
-    FileInputFormat.addInputPath(job, inputPath);
-    FileOutputFormat.setOutputPath(job, outputDir);
-    
-    job.setJarByClass(DriverImpl.class);
-    job.setInputFormatClass(TextInputFormat.class);
-    job.setOutputFormatClass(TextOutputFormat.class);
-       
-    job.setMapperClass(MapperImpl.class);
-    job.setMapOutputKeyClass(Text.class);
-    job.setMapOutputValueClass(Text.class);
-    
-    job.setReducerClass(ReducerImpl.class);
-    job.setOutputKeyClass(Text.class);
-    job.setOutputValueClass(Text.class);
+		Path inputPath;
+		Path outputDir;
+		int numberOfReducers;
 
-    job.setNumReduceTasks(numberOfReducers);
-    
-    
-    if (job.waitForCompletion(true)==true) {
-    	return 0;
-    }
-    return 1;
-  }
-  
-  public static int main(String args[]) throws Exception {
-    return ToolRunner.run(new Configuration(), new DriverImpl(), args);
-  }
-  
+		numberOfReducers = Integer.parseInt(args[0]);
+		inputPath = new Path(args[1]);
+		outputDir = new Path(args[2]);
+
+		try {
+			Double.parseDouble(args[3]);
+		} catch (NullPointerException | NumberFormatException e) {
+			System.out.println("The 3rd parameter should be a double");
+			return 1;
+		}
+
+		Configuration conf = this.getConf();
+		conf.setDouble(THRESHOLD, Double.parseDouble(args[3]));
+
+		Job job = Job.getInstance(conf);
+		job.setJobName("exercise4");
+
+		FileInputFormat.addInputPath(job, inputPath);
+		FileOutputFormat.setOutputPath(job, outputDir);
+
+		job.setJarByClass(DriverImpl.class);
+		job.setInputFormatClass(TextInputFormat.class);
+		job.setOutputFormatClass(TextOutputFormat.class);
+
+		job.setMapperClass(MapperImpl.class);
+		job.setMapOutputKeyClass(Text.class);
+		job.setMapOutputValueClass(Text.class);
+
+		job.setReducerClass(ReducerImpl.class);
+		job.setOutputKeyClass(Text.class);
+		job.setOutputValueClass(Text.class);
+
+		job.setNumReduceTasks(numberOfReducers);
+
+		if (job.waitForCompletion(true) == true) {
+			return 0;
+		}
+		return 1;
+	}
+
+	public static int main(String args[]) throws Exception {
+		return ToolRunner.run(new Configuration(), new DriverImpl(), args);
+	}
+
 }
