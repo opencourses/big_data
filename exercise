@@ -1,0 +1,136 @@
+#!/bin/bash
+set -e
+
+# Options to be setted for the script
+base_dir=$(cd `dirname "$0"` && pwd -P)
+template_dir="$base_dir/templates"
+
+prefix="exercise"
+
+
+function create {
+    templates=$(ls $template_dir)
+    found=false
+    for i in $templates; do
+        if [ "$i" == "$1" ]; then 
+            found=true
+            cp -r "$template_dir/$1" "$ex_dir"
+            if [ -f "$ex_dir/patch.sh" ]; then
+                "$ex_dir/patch.sh" $ex_name $ex_dir
+                rm "$ex_dir/patch.sh"
+            fi
+            break
+        fi
+    done
+    if [ ! $found ]; then
+        echo "usage: $0 ex_name create template_name"
+        echo " - please specify a valid exercise template"
+    fi
+}
+
+function delete {
+    echo ""
+}
+
+function clean {
+    echo ""
+}
+
+function compile {
+    echo ""
+}
+
+function killcmd {
+    echo ""
+}
+
+function edit {
+    echo ""
+}
+
+function doc {
+    echo ""
+}
+
+function build {
+    echo ""
+}
+
+function create_temp_file {
+    echo ""
+}
+
+function usage {
+    echo "This script should be used to automate the generation and"
+    echo "the testing of the exercises"
+    echo ""
+    echo "The normal usage is $0 ex_number type [command]"
+    echo "    - where type is \"hadoop\" or \"spark\""
+    echo "    - command can be one of the listed commands"
+    command
+}
+
+function commands {
+    echo "create"
+    echo "delete"
+    echo "build"
+    echo "clean"
+    echo "kill"
+    echo "edit"
+    echo "doc"
+    echo "cd"
+}
+
+
+if [ $# -lt 1 ]; then
+    usage
+    exit 1
+fi
+if [ "$1" == "list" ]; then
+    ls -l "$prefix*"
+    exit 1
+fi
+ex_number=$1
+ex_name="$prefix$1"
+ex_dir="$base_dir/$ex_name"
+shift
+if [ $# -lt 1 ]; then
+    echo "On exercise $ex_name you can execute the following commands"
+    commands
+    exit 0
+fi
+cmd=$1
+shift
+case "$cmd" in
+    create)
+        create $@
+        ;;
+    delete) 
+        delete $@
+        ;;
+    build)
+        build $@
+        ;;
+    clean) 
+        clean
+        ;;
+    kill)
+        killcmd
+        ;;
+    edit)
+        edit
+        ;;
+    doc)
+        doc
+        ;;
+    cd)
+        cd $ex_name"
+        echo "type exit to return to the previous shell"
+        PS1="EXERCISE:$ex_name >  bash
+        ;;
+    *)
+        echo "On exercise $ex_name you can execute the following commands"
+        commands
+        exit 0
+esac
+exit 1
