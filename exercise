@@ -7,6 +7,9 @@ template_dir="$base_dir/templates"
 
 prefix="exercise"
 
+host_name="namenode"
+host_home="~/"
+
 
 function create {
     templates=$(ls $template_dir)
@@ -22,42 +25,47 @@ function create {
             break
         fi
     done
-    if [ ! $found ]; then
+    if [ $found == "false" ]; then
         echo "usage: $0 ex_name create template_name"
         echo " - please specify a valid exercise template"
+        echo "Templates $templates"
     fi
 }
 
 function delete {
-    echo ""
+    rm -rf $ex_dir
 }
 
 function clean {
-    echo ""
-}
-
-function compile {
-    echo ""
-}
-
-function killcmd {
-    echo ""
-}
-
-function edit {
-    echo ""
+    cd $ex_dir
+    mvn clean
 }
 
 function doc {
-    echo ""
+	doc="$ex_dir/README.md"
+	if [ -f $doc ]; then
+		if [ "$1" == "-s" ]; then
+			cat $doc
+			return
+		fi
+		$editor "$doc"
+		return
+	fi
+cat <<EOF > $doc
+# Exercise $ex_number
+
+## Description
+EOF
+cat <&0 >> $doc 
 }
 
 function build {
-    echo ""
+    cd $ex_dir
+    mvn package
 }
 
-function create_temp_file {
-    echo ""
+function deploy {
+    scp -r "$ex_dir" "$host_name:$host_home/$ex_name"
 }
 
 function usage {
@@ -74,9 +82,8 @@ function commands {
     echo "create"
     echo "delete"
     echo "build"
+    echo "deploy"
     echo "clean"
-    echo "kill"
-    echo "edit"
     echo "doc"
     echo "cd"
 }
@@ -111,14 +118,11 @@ case "$cmd" in
     build)
         build $@
         ;;
+    deploy)
+        deploy $@
+        ;;
     clean) 
         clean
-        ;;
-    kill)
-        killcmd
-        ;;
-    edit)
-        edit
         ;;
     doc)
         doc
