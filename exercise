@@ -3,7 +3,8 @@ set -e
 
 # Options to be setted for the script
 base_dir=$(cd `dirname "$0"` && pwd -P)
-template_dir="$base_dir/templates"
+template_proj_dir="$base_dir/templates/proj"
+template_data_dir="$base_dir/templates/data"
 
 prefix="exercise"
 
@@ -14,12 +15,12 @@ editor="vim"
 
 
 function create {
-    templates=$(ls $template_dir)
+    templates=$(ls $template_proj_dir)
     found=false
     for i in $templates; do
         if [ "$i" == "$1" ]; then 
             found=true
-            cp -r "$template_dir/$1" "$ex_dir"
+            cp -r "$template_proj_dir/$1" "$ex_dir"
             if [ -f "$ex_dir/patch.sh" ]; then
                 "$ex_dir/patch.sh" $ex_name $ex_dir
                 rm "$ex_dir/patch.sh"
@@ -30,6 +31,26 @@ function create {
     if [ $found == "false" ]; then
         echo "usage: $0 ex_name create template_name"
         echo " - please specify a valid exercise template"
+        echo " - Templates $templates"
+    fi
+}
+
+function data {
+    if [ $# -lt 2 ]; then
+        echo "usage: $0 ex_number data template out_name"
+        return
+    fi
+    templates=$(ls $template_data_dir)
+    found=false
+    for i in $templates; do
+        if [ "$i" == "$1" ]; then 
+            found=true
+            cp "$template_data_dir/$1" "$ex_dir/$2"
+            break
+        fi
+    done
+    if [ $found == "false" ]; then
+        echo "The $1 template is not valid."
         echo " - Templates $templates"
     fi
 }
@@ -82,6 +103,7 @@ function usage {
 
 function commands {
     echo "create"
+    echo "data"
     echo "delete"
     echo "build"
     echo "deploy"
@@ -113,6 +135,9 @@ shift
 case "$cmd" in
     create)
         create $@
+        ;;
+    data)
+        data $@
         ;;
     delete) 
         delete $@
