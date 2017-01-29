@@ -45,7 +45,7 @@ function data {
     for i in $templates; do
         if [ "$i" == "$1" ]; then 
             found=true
-            cp "$template_data_dir/$1" "$ex_dir/$2"
+            cp "$template_data_dir/$1" "$ex_dir/"$ex_name"_data/$2"
             break
         fi
     done
