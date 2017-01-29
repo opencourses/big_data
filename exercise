@@ -28,7 +28,7 @@ function create {
     if [ $found == "false" ]; then
         echo "usage: $0 ex_name create template_name"
         echo " - please specify a valid exercise template"
-        echo "Templates $templates"
+        echo " - Templates $templates"
     fi
 }
 
