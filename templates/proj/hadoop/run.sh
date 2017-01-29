@@ -13,8 +13,5 @@ hdfs dfs -copyFromLocal "$base_dir/ex_name_data" /ex_name_data
 
 
 # Run application
-hadoop jar "$base_dir/target/ex_name-1.0.0.jar" it.polito.bigdata.hadoop.DriverImpl 1 ex_name_data/document.txt  ex_name_out
-
-
-
-
+hadoop jar "$base_dir/target/ex_name-1.0.0.jar" com.alangiu.bigdata.hadoop.DriverImpl \
+                                                1 /ex_name_data  /ex_name_out
