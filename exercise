@@ -93,7 +93,7 @@ function deploy {
         scp -r "$ex_dir" "$host_name:$host_home/$ex_name"
         return
     fi
-    rsync --progress -r "$ex_dir" "$host_name:$host_home/$ex_name"
+    rsync --progress -r "$ex_dir" "$host_name:$host_home/"
 }
 
 function usage {
