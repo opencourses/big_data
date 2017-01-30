@@ -17,6 +17,7 @@ fi
 #   - $n3       : is a random number between min3 and max3
 #   - $n4       : is a random number between min4 and max4
 #   - $inc1     : is an incremental number starting from inc1+1
+#   - $t        : is the tabulation
 #   To generate a double number simply use $1.$2 setting the max for the two values
 format='Sentence#$inc1    $words'
 
@@ -54,6 +55,7 @@ outwords="Google Yahoo yandex is better nothing than"
 #   - $n2       : is a random number between min2 and max2
 #   - $n3       : is a random number between min3 and max3
 #   - $n4       : is a random number between min4 and max4
+t='\t'
 dateb=false
 wordsb=false
 n1b=false
@@ -107,8 +109,7 @@ function run {
         if [ $inc1b = true ]; then
             let inc1=inc1+1
         fi
-        out=$(eval "echo $format")
-        echo "$out"
+        eval "echo -e $format"
     done
 }
 
