@@ -142,7 +142,7 @@ function get_random() {
     min=${1-0}
     max=${2-""}
     if [ "$max"x != ""x ]; then
-        echo $((($RANDOM%$max+$min)))
+        echo $(((($RANDOM%($max-$min))+$min)))
     else
         echo $((($RANDOM+$min)))
     fi
