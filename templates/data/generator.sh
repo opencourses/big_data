@@ -38,6 +38,7 @@ inc1=0
 # DATE
 startdate=20160512
 enddate=20160913
+sequencial=false
 dateformat="%Y-%m-%d"
 
 # RANDOM WORD PICKER
@@ -86,7 +87,7 @@ function run {
     while [ $i -lt $numberoflines ]; do
         let i=$i+1
         if [ $dateb = true ]; then
-            date=$(get_date)
+            date=$(get_date $i)
         fi
         if [ $wordsb = true ]; then
             words=$(get_words)
@@ -113,8 +114,13 @@ function run {
 
 ## DATE GENERATOR
 diffdata=$(( ($(date -j -f "%Y%m%d" $enddate +%s) - $(date -j -f "%Y%m%d" $startdate +%s) )/(60*60*24) ))
+j=0
 function get_date() {
-    j=$(get_random 0 $diffdata)
+    if [ $sequencial = true ]; then
+        j=$1
+    else 
+        j=$(get_random 0 $diffdata)
+    fi
     currentdate=`date   -j -v+${j}d  -f "%Y%m%d" "$startdate" +$dateformat`
     echo $currentdate
 }
