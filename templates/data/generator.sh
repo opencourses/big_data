@@ -17,9 +17,10 @@ fi
 #   - $n3       : is a random number between min3 and max3
 #   - $n4       : is a random number between min4 and max4
 #   - $inc1     : is an incremental number starting from inc1+1
+#     $ip       : is a random ip address
 #   - $t        : is the tabulation
 #   To generate a double number simply use $1.$2 setting the max for the two values
-format='Sentence#$inc1    $words'
+format=''
 
 # NUMBERS
 min1=0
@@ -44,17 +45,11 @@ dateformat="%Y-%m-%d"
 
 # RANDOM WORD PICKER
 nwordsmin=1
-nwordsmax=10
+nwordsmax=1
 outwords="Google Yahoo yandex is better nothing than"
 
 
 ## MAIN METHOD
-#   - $date     : indicates a random date between the setted values
-#   - $words    : is a random phrase generated combining 'nwords' words
-#   - $n1       : is a random number between min1 and max1
-#   - $n2       : is a random number between min2 and max2
-#   - $n3       : is a random number between min3 and max3
-#   - $n4       : is a random number between min4 and max4
 t='\t'
 dateb=false
 wordsb=false
@@ -63,6 +58,7 @@ n2b=false
 n3b=false
 n4b=false
 inc1b=false
+ipb=false
 if [[ $format == *"n1"* ]]; then
     n1b=true;
 fi
@@ -83,6 +79,9 @@ if [[ "$format" == *"date"* ]]; then
 fi
 if [[ "$format" == *"words"* ]]; then
     wordsb=true;
+fi
+if [[ "$format" == *"ip"* ]]; then
+    ipb=true;
 fi
 function run {
     i=0;
@@ -109,6 +108,9 @@ function run {
         if [ $inc1b = true ]; then
             let inc1=inc1+1
         fi
+        if [ $ipb = true ]; then
+            ip=$(get_ip)
+        fi
         eval "echo -e $format"
     done
 }
@@ -129,7 +131,11 @@ function get_date() {
 ## WORDS GENERATOR
 wordc=$(echo $outwords | wc -w)
 function get_words() {
-    i=$(get_random $nwordsmin $nwordsmax)
+    if [ $nwordsmin == $nwordsmax ]; then
+        i=$nwordsmin
+    else 
+        i=$(get_random $nwordsmin $nwordsmax)
+    fi
     while [ $i -ge "$nwordsmin" ]; do
         let i=i-1
         j=$(get_random 1 $wordc)
@@ -146,6 +152,14 @@ function get_random() {
     else
         echo $((($RANDOM+$min)))
     fi
+}
+
+function get_ip() {
+    ip1=$(get_random 1 255)
+    ip2=$(get_random 1 255)
+    ip3=$(get_random 1 255)
+    ip4=$(get_random 1 255)
+    echo "$ip1.$ip2.$ip3.$ip4"
 }
 
 run

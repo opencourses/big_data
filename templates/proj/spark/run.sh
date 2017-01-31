@@ -19,7 +19,7 @@ local_data_dir=$base_dir/$ex_name"_data"
 data_dirs=/$ex_name"_data"
 out_dirs=/$ex_name"_out"
 
-args="$data_dirs/log.txt $out_dirs"
+args="$data_dirs/data.txt $out_dirs"
 
 # Remove folders of the previous run
 clean_data() {
