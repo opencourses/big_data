@@ -93,7 +93,11 @@ function deploy {
         scp -r "$ex_dir" "$host_name:$host_home/$ex_name"
         return
     fi
-    rsync --progress -r "$ex_dir" "$host_name:$host_home/"
+    args="--progress"
+    if [ -f "$ex_dir/files.exclude" ]; then
+        args="$args --exclude-from $ex_dir/files.exclude"
+    fi
+    rsync $args -r "$ex_dir" "$host_name:$host_home/"
 }
 
 function usage {
