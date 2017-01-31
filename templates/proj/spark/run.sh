@@ -1,17 +1,16 @@
 #!/bin/bash -e
 src=false
-if [[ $_ != $0 ]]
-then
+
+if [[ $_ != $0 ]]; then
     src=true	
-    base_dir=$(cd `dirname "$1"` && pwd -P)
-else 
-    base_dir=$(cd `dirname "$0"` && pwd -P)
 fi
+
+base_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 # Script configurations:
 ex_name="__EXERCISE_NAME__"
 jar="$base_dir/target/$ex_name-1.0.0.jar"
-class="it.polito.bigdata.spark.exercise30.SparkDriver"
+class="com.alangiu.bigdata.spark.SparkDriver"
 
 ## path configurations
 ## this will be the folders inside the HDFS. Please use absolute paths
