@@ -19,8 +19,6 @@ data_dirs=/$ex_name"_data"
 out_dirs=/$ex_name"_out"
 
 args="$data_dirs/data.txt $out_dirs"
-local_args="$local_data_dir $base_dir/$out_dirs"
-
 
 # Remove folders of the previous run
 clean_data() {
@@ -41,11 +39,6 @@ copy() {
 submit() {
     spark-submit  --class $class --deploy-mode cluster \
                   --master yarn $jar $args
-}
-
-run_local() {
-    spark-submit  --class $class --deploy-mode client \
-                  --master local $jar $local_args
 }
 
 run() {
@@ -102,7 +95,6 @@ if [ $src = false ]; then
 fi
 
 export -f run
-export -f run_local
 export -f out
 export -f copy
 export -f submit

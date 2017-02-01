@@ -8,7 +8,7 @@ fi
 base_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 # Script configurations:
-ex_name="__EXERCISE_NAME__"
+ex_name="exercise32"
 jar="$base_dir/target/$ex_name-1.0.0.jar"
 class="com.alangiu.bigdata.spark.SparkDriver"
 

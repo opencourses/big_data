@@ -8,7 +8,7 @@ fi
 base_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 # Script configurations:
-ex_name="__EXERCISE_NAME__"
+ex_name="exercise28"
 jar="$base_dir/target/$ex_name-1.0.0.jar"
 class="com.alangiu.bigdata.spark.SparkDriver"
 
@@ -19,8 +19,7 @@ data_dirs=/$ex_name"_data"
 out_dirs=/$ex_name"_out"
 
 args="$data_dirs/data.txt $out_dirs"
-local_args="$local_data_dir $base_dir/$out_dirs"
-
+local_args="$local_data_dir $base_dir$out_dirs"
 
 # Remove folders of the previous run
 clean_data() {

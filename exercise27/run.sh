@@ -8,7 +8,7 @@ fi
 base_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 # Script configurations:
-ex_name="__EXERCISE_NAME__"
+ex_name="exercise27"
 jar="$base_dir/target/$ex_name-1.0.0.jar"
 class="com.alangiu.bigdata.spark.SparkDriver"
 
@@ -18,9 +18,7 @@ local_data_dir=$base_dir/$ex_name"_data"
 data_dirs=/$ex_name"_data"
 out_dirs=/$ex_name"_out"
 
-args="$data_dirs/data.txt $out_dirs"
-local_args="$local_data_dir $base_dir/$out_dirs"
-
+args="$data_dirs"
 
 # Remove folders of the previous run
 clean_data() {
@@ -45,7 +43,7 @@ submit() {
 
 run_local() {
     spark-submit  --class $class --deploy-mode client \
-                  --master local $jar $local_args
+                  --master local $jar $local_data_dir
 }
 
 run() {
@@ -102,7 +100,6 @@ if [ $src = false ]; then
 fi
 
 export -f run
-export -f run_local
 export -f out
 export -f copy
 export -f submit

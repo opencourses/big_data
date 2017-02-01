@@ -17,10 +17,10 @@ fi
 #   - $n3       : is a random number between min3 and max3
 #   - $n4       : is a random number between min4 and max4
 #   - $inc1     : is an incremental number starting from inc1+1
-#   - $ip       : is a random ip address
+#     $ip       : is a random ip address
 #   - $t        : is the tabulation
 #   To generate a double number simply use $1.$2 setting the max for the two values
-format=''
+format='$ip--[24/Sep/2014:22:25:44 +0000]\"GET http:www.$words.com/help.html\"'
 
 # NUMBERS
 min1=0
@@ -46,7 +46,7 @@ dateformat="%Y-%m-%d"
 # RANDOM WORD PICKER
 nwordsmin=1
 nwordsmax=1
-outwords="Google Yahoo yandex is better nothing than"
+outwords="google yahoo yandex tiscali"
 
 
 ## MAIN METHOD

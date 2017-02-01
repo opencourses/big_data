@@ -1,0 +1,7 @@
+src/
+pom.xml
+.classpath
+.gitignore
+.project
+.settings
+files.exclude
