@@ -1,0 +1,1000 @@
+A484,Q7,2016-08-15,don't answer.
+A850,Q32,2016-05-19,questions I
+A182,Q83,2016-06-24,Because I without
+A548,Q8,2016-07-14,There Because
+A114,Q32,2016-08-19,questions do
+A480,Q57,2016-05-23,I don't
+A612,Q9,2016-06-28,it. are I
+A580,Q32,2016-07-18,There answer. I are I
+A639,Q37,2016-05-12,answer. I without do There
+A242,Q34,2016-05-29,I
+A608,Q58,2016-07-22,do There
+A757,Q46,2016-07-26,I without do don't
+A853,Q25,2016-08-03,it. are I There
+A274,Q57,2016-08-06,it. questions
+A333,Q63,2016-08-16,I questions I don't answer.
+A67,Q12,2016-09-02,without do are I are
+A397,Q63,2016-06-11,do are Because
+A456,Q68,2016-08-01,without do are Because don't
+A316,Q73,2016-08-18,I are I don't answer.
+A375,Q78,2016-09-04,questions I There answer. I
+A434,Q83,2016-05-20,do are answer. I questions
+A620,Q44,2016-06-06,I it.
+A132,Q77,2016-09-06,are
+A227,Q38,2016-06-10,I There answer.
+A828,Q36,2016-09-04,don't
+A195,Q61,2016-06-25,I questions
+A255,Q65,2016-06-29,There Because I without do
+A585,Q17,2016-08-17,Because I without
+A951,Q41,2016-09-06,are Because
+A174,Q75,2016-06-10,are I
+A504,Q27,2016-05-20,answer. it. questions
+A870,Q51,2016-06-08,don't answer.
+A256,Q12,2016-07-14,There Because I
+A116,Q17,2016-07-08,do There Because I without
+A175,Q22,2016-07-25,are Because don't without it.
+A234,Q27,2016-08-11,Because don't without it. questions
+A293,Q31,2016-08-28,don't answer. it. questions I
+A352,Q36,2016-06-14,answer. I questions do There
+A483,Q87,2016-07-01,I questions do
+A49,Q13,2016-07-20,I I
+A181,Q64,2016-08-25,it. are I
+A746,Q88,2016-05-12,answer. it.
+A113,Q13,2016-06-18,I don't
+A479,Q39,2016-07-24,I questions
+A538,Q43,2016-07-28,There Because I without do
+A869,Q94,2016-05-14,Because I without
+A236,Q19,2016-06-03,are Because
+A602,Q44,2016-07-09,without do
+A697,Q23,2016-08-14,I There answer. it.
+A300,Q20,2016-08-16,I
+A666,Q45,2016-06-07,answer. I
+A761,Q23,2016-06-11,do There answer. I
+A820,Q29,2016-07-15,do are Because I without
+A879,Q33,2016-08-01,are I don't without do
+A938,Q38,2016-08-18,I There answer. it. are
+A270,Q89,2016-06-04,There answer. I
+A401,Q41,2016-06-23,do There Because
+A767,Q65,2016-07-13,questions do
+A333,Q90,2016-08-18,Because I
+A700,Q15,2016-05-22,it. are
+A31,Q66,2016-06-28,don't answer. it.
+A397,Q90,2016-07-17,I don't
+A763,Q16,2016-08-22,I are
+A822,Q21,2016-08-26,There Because I without do
+A154,Q72,2016-06-12,Because I without
+A520,Q96,2016-07-02,are Because
+A886,Q22,2016-08-07,without do
+A981,Q1,2016-09-12,I There answer. it.
+A41,Q6,2016-05-13,I There answer. I are
+A643,Q3,2016-05-30,There
+A10,Q27,2016-07-23,I questions
+A376,Q53,2016-08-28,are Because
+A471,Q31,2016-09-01,without it. are I
+A74,Q29,2016-06-03,without
+A169,Q7,2016-06-25,are I don't answer.
+A228,Q12,2016-07-29,are I don't answer. I
+A287,Q16,2016-08-15,I There answer. I questions
+A346,Q21,2016-06-01,are Because I without do
+A532,Q81,2016-06-18,I I without
+A862,Q33,2016-09-12,don't answer. it.
+A921,Q38,2016-07-01,I don't answer. it. questions
+A781,Q43,2016-07-18,There answer. I questions do
+A840,Q48,2016-08-04,answer. I without do are
+A899,Q52,2016-08-21,I without do are Because
+A958,Q57,2016-09-07,without it. are I don't
+A289,Q10,2016-06-24,I are I
+A656,Q34,2016-07-13,Because I
+A787,Q85,2016-08-18,do There Because
+A353,Q10,2016-09-07,without do
+A719,Q35,2016-06-11,Because I
+A87,Q60,2016-07-17,it. questions
+A146,Q64,2016-07-22,don't answer. it. questions I
+A476,Q16,2016-09-09,answer. I questions
+A842,Q40,2016-05-27,There answer.
+A209,Q66,2016-07-02,without do
+A269,Q70,2016-07-06,Because don't without it. are
+A599,Q22,2016-08-24,don't without it.
+A965,Q46,2016-05-12,I don't
+A332,Q71,2016-06-17,it. are
+A427,Q50,2016-07-23,There Because I questions
+A30,Q47,2016-07-25,There
+A396,Q72,2016-05-16,I without
+A491,Q51,2016-05-20,are Because I without
+A550,Q56,2016-06-23,are I don't without it.
+A609,Q60,2016-07-10,I There answer. it. are
+A668,Q65,2016-07-27,There Because I without I
+A999,Q17,2016-05-13,Because I without
+A131,Q68,2016-06-01,are Because don't
+A497,Q92,2016-06-21,do are
+A63,Q18,2016-07-27,don't without
+A430,Q42,2016-09-01,questions I
+A760,Q93,2016-06-06,answer. I questions
+A127,Q18,2016-06-25,There answer.
+A493,Q43,2016-07-31,without I
+A552,Q48,2016-08-04,Because don't without it. are
+A883,Q99,2016-05-21,don't without it.
+A250,Q24,2016-06-10,I don't
+A472,Q58,2016-05-19,I There
+A802,Q10,2016-06-24,I questions do
+A169,Q34,2016-07-14,answer. I
+A734,Q59,2016-08-19,I There
+A102,Q83,2016-05-23,don't without
+A233,Q35,2016-06-29,are Because don't
+A798,Q59,2016-07-18,it. are
+A165,Q84,2016-08-23,There without
+A496,Q36,2016-05-27,questions do There
+A862,Q60,2016-06-16,I questions
+A283,Q94,2016-07-22,There answer.
+A415,Q46,2016-06-30,are Because don't
+A781,Q70,2016-07-20,do are
+A347,Q95,2016-08-25,don't without
+A714,Q20,2016-05-29,questions I
+A45,Q71,2016-07-04,answer. it. questions
+A411,Q95,2016-07-24,There answer.
+A777,Q21,2016-08-29,without I
+A836,Q26,2016-06-02,Because don't without it. There
+A168,Q77,2016-06-19,don't without it.
+A534,Q2,2016-07-09,I don't
+A900,Q26,2016-08-14,it. are
+A267,Q52,2016-05-18,There Because
+A327,Q56,2016-05-22,questions do There Because I
+A386,Q61,2016-07-10,do are Because don't without
+A517,Q13,2016-07-27,are Because don't
+A83,Q37,2016-08-16,it. are
+A449,Q62,2016-05-20,There without
+A780,Q14,2016-06-25,questions do There
+A147,Q38,2016-07-14,I questions
+A513,Q62,2016-08-20,There answer.
+A518,Q59,2016-08-24,without it. do are
+A812,Q37,2016-07-06,I without do are
+A672,Q42,2016-08-09,don't without it. are I
+A731,Q47,2016-08-26,answer. it. questions I There
+A790,Q52,2016-09-12,I questions I There answer.
+A849,Q57,2016-05-28,without it. There Because I
+A180,Q9,2016-07-16,it. are Because
+A312,Q60,2016-08-04,answer. it. questions
+A678,Q84,2016-08-24,don't answer.
+A244,Q9,2016-05-28,questions I
+A610,Q34,2016-07-03,Because I
+A941,Q85,2016-08-08,do are Because
+A308,Q10,2016-08-28,without do
+A674,Q36,2016-06-01,Because I
+A769,Q14,2016-06-05,it. questions I don't
+A372,Q11,2016-07-09,it.
+A467,Q89,2016-09-01,I There answer. I
+A526,Q94,2016-09-03,I There answer. I questions
+A585,Q98,2016-05-19,There Because I without do
+A915,Q50,2016-07-07,Because don't without
+A282,Q75,2016-07-26,questions I
+A613,Q27,2016-08-31,answer. it. questions
+A979,Q51,2016-05-19,There answer.
+A346,Q76,2016-06-24,questions I
+A441,Q55,2016-07-30,Because don't without do
+A44,Q52,2016-08-01,Because
+A410,Q77,2016-05-23,without do
+A505,Q55,2016-05-27,Because don't without it.
+A619,Q69,2016-06-30,I There answer. it. There
+A714,Q47,2016-06-21,I questions do There
+A81,Q72,2016-07-26,I without
+A447,Q97,2016-07-30,There Because
+A14,Q22,2016-09-04,without it.
+A145,Q73,2016-06-08,I don't answer.
+A511,Q97,2016-06-28,are I
+A77,Q23,2016-08-03,answer. it.
+A444,Q47,2016-09-08,do There
+A774,Q98,2016-06-13,I questions do
+A141,Q23,2016-07-02,Because I
+A507,Q48,2016-08-07,it. There
+A566,Q53,2016-09-12,don't answer. it. questions I
+A698,Q5,2016-05-28,answer. it. questions
+A264,Q29,2016-06-17,There answer.
+A630,Q54,2016-07-23,questions I
+A997,Q79,2016-08-28,Because don't
+A57,Q83,2016-09-01,do are Because don't without
+A387,Q35,2016-06-18,are I don't
+A753,Q59,2016-07-08,it. are
+A120,Q85,2016-08-13,don't without
+A215,Q63,2016-08-17,questions do There Because
+A817,Q60,2016-05-19,questions
+A912,Q39,2016-07-12,There Because I without
+A971,Q44,2016-07-14,There Because I without it.
+A31,Q48,2016-07-31,Because don't without it. are
+A361,Q1,2016-05-17,There answer. it.
+A728,Q25,2016-06-05,do There
+A59,Q76,2016-07-11,I questions do
+A425,Q1,2016-07-31,Because I
+A791,Q26,2016-09-05,do There
+A886,Q5,2016-06-09,don't answer. it. questions
+A489,Q2,2016-06-11,don't
+A855,Q27,2016-08-04,it. questions
+A950,Q6,2016-08-08,There answer. it. questions
+A10,Q11,2016-09-11,There Because don't questions do
+A69,Q15,2016-05-27,Because don't without it. There
+A128,Q20,2016-06-13,don't answer. it. questions Because
+A224,Q98,2016-08-01,answer. it. questions do
+A590,Q23,2016-08-03,answer. I
+A956,Q47,2016-09-09,I There
+A522,Q72,2016-06-13,don't questions
+A654,Q24,2016-07-19,are Because don't
+A220,Q48,2016-08-08,do are
+A586,Q72,2016-05-12,don't without
+A952,Q97,2016-06-17,questions I
+A12,Q3,2016-07-23,answer. I questions do There
+A343,Q54,2016-08-09,I questions do
+A709,Q78,2016-08-29,Because I
+A76,Q4,2016-06-02,do There
+A443,Q29,2016-07-08,don't answer.
+A628,Q88,2016-07-12,don't without it.
+A194,Q14,2016-07-06,I don't
+A326,Q65,2016-08-11,I questions do
+A692,Q89,2016-08-31,answer. I
+A258,Q14,2016-06-04,do There
+A624,Q39,2016-07-10,don't without
+A955,Q90,2016-08-15,are I don't
+A322,Q15,2016-09-04,it. are
+A688,Q40,2016-06-08,don't without
+A783,Q19,2016-06-12,questions do There answer.
+A386,Q16,2016-07-16,questions
+A481,Q94,2016-09-08,There Because I without
+A540,Q99,2016-09-10,There Because I without do
+A599,Q4,2016-05-26,Because don't without it. are
+A929,Q55,2016-07-14,don't without it.
+A296,Q80,2016-08-02,do There
+A428,Q32,2016-09-07,I questions do
+A993,Q56,2016-05-26,Because I
+A360,Q81,2016-07-01,do There
+A727,Q7,2016-08-06,don't answer.
+A786,Q11,2016-08-10,are I don't answer. it.
+A117,Q62,2016-05-27,I There answer.
+A483,Q86,2016-06-16,questions I
+A849,Q13,2016-07-22,Because it.
+A908,Q17,2016-07-26,do are Because don't questions
+A240,Q68,2016-05-12,are Because don't
+A606,Q92,2016-06-01,it. are
+A972,Q17,2016-07-07,don't without
+A68,Q96,2016-08-12,questions do don't answer.
+A127,Q2,2016-08-14,questions do There Because I
+A729,Q98,2016-08-31,do
+A96,Q23,2016-06-22,Because I
+A462,Q49,2016-07-28,do are
+A557,Q27,2016-08-01,don't answer. it. questions
+A160,Q25,2016-09-04,don't
+A255,Q3,2016-05-25,it. questions I There
+A314,Q8,2016-06-28,it. questions I There Because
+A373,Q12,2016-07-15,questions do There Because I
+A432,Q17,2016-09-02,do are Because don't without
+A563,Q69,2016-05-18,questions Because don't
+A130,Q93,2016-06-06,I questions
+A261,Q45,2016-07-12,There answer. I
+A826,Q69,2016-08-01,do There
+A193,Q94,2016-09-06,don't questions
+A560,Q20,2016-06-10,are Because
+A619,Q24,2016-06-15,without it. are I don't
+A949,Q75,2016-08-03,it. are I
+A316,Q99,2016-08-22,answer. it.
+A682,Q25,2016-05-26,do There
+A597,Q39,2016-07-01,I without Because I without
+A927,Q90,2016-05-22,There Because I
+A294,Q16,2016-06-10,do are
+A661,Q40,2016-07-16,don't answer.
+A991,Q91,2016-08-22,questions I There
+A358,Q16,2016-09-10,it. questions
+A923,Q41,2016-06-14,There answer.
+A56,Q92,2016-07-20,without do are
+A422,Q17,2016-08-09,I without
+A987,Q41,2016-05-13,are Because
+A354,Q66,2016-06-18,answer. it.
+A685,Q18,2016-07-24,I don't answer.
+A52,Q42,2016-08-13,questions I
+A418,Q67,2016-05-17,answer. it.
+A513,Q46,2016-05-21,do are Because I
+A116,Q43,2016-06-24,do
+A482,Q68,2016-08-17,Because don't
+A577,Q46,2016-08-21,do are Because don't
+A636,Q52,2016-05-23,it. questions I don't answer.
+A695,Q57,2016-06-09,questions do There answer. it.
+A754,Q61,2016-06-26,do are Because I questions
+A86,Q13,2016-08-14,are Because don't
+A217,Q64,2016-09-02,it. are I
+A583,Q88,2016-05-21,without it.
+A149,Q14,2016-06-26,I don't
+A516,Q38,2016-08-01,I questions
+A846,Q89,2016-09-07,There Because I
+A213,Q14,2016-05-25,do There
+A579,Q40,2016-06-30,don't questions
+A638,Q44,2016-07-04,are I don't answer. it.
+A969,Q95,2016-08-22,I don't answer.
+A336,Q20,2016-09-11,questions I
+A702,Q45,2016-06-15,answer. it.
+A797,Q24,2016-07-21,do are answer. I
+A856,Q29,2016-07-23,do are Because don't without
+A459,Q26,2016-08-09,are
+A825,Q50,2016-05-31,don't without
+A192,Q76,2016-07-06,are I
+A287,Q54,2016-07-10,answer. I questions do
+A889,Q52,2016-08-13,answer.
+A984,Q30,2016-09-04,questions do There Because
+A44,Q35,2016-06-06,questions do There Because don't
+A103,Q39,2016-06-23,do are Because don't without
+A162,Q44,2016-08-11,are I don't answer. it.
+A293,Q96,2016-08-28,do don't answer.
+A859,Q21,2016-05-15,without do
+A990,Q72,2016-06-21,Because I without
+A556,Q96,2016-07-10,are Because
+A922,Q22,2016-08-15,answer. do
+A254,Q73,2016-05-19,I don't answer.
+A475,Q7,2016-06-08,don't answer.
+A841,Q32,2016-05-17,questions do
+A173,Q83,2016-06-22,Because I without
+A539,Q8,2016-07-12,There Because
+A105,Q33,2016-08-17,questions do
+A472,Q57,2016-05-21,I don't
+A603,Q9,2016-06-26,it. are I
+A169,Q33,2016-07-16,answer. it.
+A535,Q58,2016-08-21,I don't
+A902,Q83,2016-05-25,I without
+A961,Q87,2016-05-30,There Because I without do
+A292,Q39,2016-07-18,Because don't without
+A658,Q63,2016-08-06,are Because
+A25,Q89,2016-09-11,answer. it.
+A84,Q93,2016-05-14,I There answer. I questions
+A415,Q45,2016-07-02,There answer. I
+A781,Q69,2016-07-22,do There
+A148,Q94,2016-08-27,I questions
+A243,Q73,2016-08-31,are I don't without
+A845,Q70,2016-06-02,are
+A212,Q95,2016-07-26,don't answer.
+A307,Q74,2016-07-30,questions I don't answer.
+A366,Q79,2016-09-02,questions do There answer. I
+A425,Q84,2016-05-18,do are Because I questions
+A484,Q88,2016-06-04,are I don't without do
+A815,Q40,2016-07-23,I don't answer.
+A946,Q91,2016-08-11,questions I There
+A313,Q16,2016-08-31,it. questions
+A878,Q41,2016-06-04,There answer.
+A246,Q65,2016-07-10,without do
+A576,Q17,2016-08-16,Because don't without
+A942,Q41,2016-09-04,are Because
+A309,Q67,2016-06-08,answer. do
+A368,Q71,2016-06-12,I There answer. I questions
+A699,Q23,2016-07-31,There answer. I
+A66,Q47,2016-08-20,do There
+A432,Q72,2016-05-24,I questions
+A527,Q51,2016-06-29,are I don't without
+A130,Q48,2016-07-01,are
+A496,Q73,2016-08-24,don't answer.
+A591,Q51,2016-08-28,are I don't answer.
+A650,Q56,2016-05-30,questions do There answer. I
+A709,Q61,2016-06-16,do are answer. I questions
+A768,Q66,2016-07-03,are I don't without do
+A99,Q18,2016-08-21,I don't answer.
+A231,Q69,2016-09-09,questions I There
+A597,Q93,2016-05-28,it. questions
+A163,Q19,2016-07-03,There answer.
+A530,Q43,2016-08-08,without do
+A715,Q4,2016-05-12,Because don't are
+A82,Q29,2016-08-06,don't without
+A413,Q80,2016-09-11,are I don't
+A779,Q5,2016-05-29,it. questions
+A146,Q29,2016-07-05,don't answer.
+A711,Q54,2016-08-10,without do
+A843,Q6,2016-05-14,Because I without
+A409,Q30,2016-06-03,There Because
+A775,Q55,2016-07-09,without do
+A143,Q79,2016-08-14,I don't
+A202,Q84,2016-05-18,it. questions I There answer.
+A333,Q36,2016-06-04,questions I There
+A898,Q60,2016-06-24,I questions
+A265,Q85,2016-07-30,are answer.
+A632,Q11,2016-09-04,without it.
+A691,Q15,2016-09-09,Because don't without it. are
+A22,Q66,2016-06-26,don't answer. it.
+A388,Q90,2016-07-15,I don't
+A754,Q17,2016-08-20,I questions
+A814,Q21,2016-08-24,There Because I without do
+A145,Q72,2016-06-10,Because I without
+A511,Q96,2016-06-30,are Because
+A877,Q22,2016-08-05,without do
+A972,Q1,2016-09-10,I There answer. I
+A575,Q97,2016-09-12,I
+A941,Q23,2016-07-04,answer. I
+A37,Q2,2016-07-08,do There answer. I
+A96,Q7,2016-08-11,do are I I without
+A155,Q12,2016-08-28,are I don't without do
+A214,Q16,2016-05-13,I There answer. I are
+A545,Q67,2016-07-01,There answer. I
+A676,Q19,2016-07-20,do There Because
+A43,Q43,2016-08-09,questions do
+A608,Q68,2016-05-13,I I
+A975,Q92,2016-06-18,it. are
+A306,Q44,2016-07-25,don't answer. it.
+A672,Q68,2016-08-13,I don't
+A39,Q94,2016-05-17,I questions
+A98,Q98,2016-05-21,There Because I without do
+A429,Q50,2016-07-09,Because I without
+A795,Q74,2016-07-29,are Because
+A162,Q99,2016-09-03,without do
+A257,Q78,2016-06-07,I There answer. it.
+A859,Q75,2016-06-09,I
+A226,Q1,2016-08-02,answer. I
+A321,Q78,2016-08-06,I There answer. I
+A380,Q84,2016-09-09,do are Because I without
+A439,Q88,2016-05-25,are I don't without do
+A498,Q93,2016-06-11,I There answer. it. are
+A684,Q54,2016-07-30,There questions I
+A15,Q5,2016-06-22,answer. I questions
+A74,Q10,2016-08-12,There answer. I without do
+A933,Q15,2016-08-29,I I without do are
+A992,Q20,2016-05-14,There without it. are I
+A52,Q26,2016-05-31,answer. I are I There
+A111,Q30,2016-06-17,I without do There answer.
+A441,Q81,2016-08-05,without it. are
+A573,Q33,2016-08-24,don't without it.
+A139,Q57,2016-05-12,Because don't
+A505,Q82,2016-06-17,it. are
+A872,Q7,2016-07-23,There answer.
+A931,Q12,2016-08-28,questions do There Because I
+A63,Q63,2016-05-14,do There Because
+A628,Q87,2016-06-02,without do
+A994,Q13,2016-07-08,I I
+A326,Q64,2016-08-13,it. questions I
+A692,Q88,2016-09-01,answer. it.
+A59,Q14,2016-06-06,I don't
+A154,Q92,2016-06-10,I without I There
+A213,Q97,2016-07-14,I without do There Because
+A272,Q2,2016-07-31,without it. are I I
+A874,Q99,2016-05-17,it.
+A241,Q24,2016-06-08,I don't
+A607,Q49,2016-07-14,it. are
+A702,Q28,2016-08-19,There Because I without
+A305,Q25,2016-08-21,There
+A671,Q50,2016-06-12,I without
+A766,Q29,2016-06-16,are Because I without
+A825,Q34,2016-07-20,are I There without it.
+A884,Q38,2016-08-06,I There answer. it. are
+A943,Q43,2016-08-23,There Because I without I
+A40,Q22,2016-06-09,Because I without it.
+A406,Q46,2016-06-11,Because don't
+A772,Q70,2016-07-18,do are
+A338,Q95,2016-08-23,There without
+A470,Q47,2016-05-27,questions I There
+A36,Q71,2016-06-15,I questions
+A402,Q95,2016-07-22,There answer.
+A768,Q21,2016-08-27,without do
+A827,Q26,2016-08-31,Because don't without it. are
+A159,Q77,2016-06-17,don't without it.
+A525,Q2,2016-07-07,I don't
+A891,Q27,2016-08-12,it. are
+A986,Q6,2016-05-16,There Because I questions
+A589,Q3,2016-05-18,There
+A955,Q28,2016-07-11,I without
+A51,Q6,2016-07-15,are Because I without
+A165,Q20,2016-08-18,are I it. questions I
+A260,Q97,2016-08-09,answer. it. questions I
+A626,Q23,2016-05-12,answer. I
+A992,Q48,2016-05-16,I There
+A559,Q72,2016-06-21,I without
+A690,Q24,2016-07-27,are Because don't
+A57,Q48,2016-08-16,do are
+A622,Q73,2016-05-20,don't without
+A989,Q97,2016-06-25,questions I
+A320,Q49,2016-08-01,answer. it. questions
+A686,Q73,2016-08-20,There answer.
+A53,Q98,2016-05-24,without I
+A112,Q4,2016-05-28,Because don't without it. are
+A443,Q55,2016-07-16,don't without it.
+A809,Q79,2016-08-05,I don't
+A176,Q5,2016-09-10,it. are
+A543,Q30,2016-06-14,There Because
+A602,Q34,2016-06-18,questions do There Because I
+A661,Q39,2016-08-06,do are Because don't without
+A792,Q90,2016-08-24,are Because don't
+A358,Q15,2016-09-12,it. are
+A724,Q40,2016-06-16,There without
+A56,Q91,2016-07-22,questions do There
+A422,Q16,2016-08-11,I questions
+A788,Q40,2016-05-15,There answer.
+A883,Q20,2016-05-19,without it. There Because
+A942,Q25,2016-06-22,without it. are I don't
+A2,Q29,2016-07-09,it. questions I There without
+A98,Q8,2016-08-27,questions do There Because
+A464,Q32,2016-08-29,questions do
+A30,Q56,2016-06-03,answer. I
+A396,Q81,2016-07-09,it. There
+A528,Q33,2016-08-14,don't without it.
+A94,Q57,2016-09-03,I don't
+A460,Q81,2016-06-07,it. are
+A826,Q8,2016-07-13,There Because
+A886,Q12,2016-07-17,questions do There Because I
+A217,Q63,2016-09-04,do are Because
+A583,Q87,2016-05-23,without do
+A949,Q14,2016-06-28,Because I
+A45,Q91,2016-07-02,it. questions I There
+A647,Q88,2016-08-05,it.
+A742,Q67,2016-05-27,I There answer. I
+A801,Q72,2016-05-29,I There answer. I without
+A860,Q76,2016-06-15,There Because I without do
+A191,Q29,2016-08-03,Because don't without
+A558,Q53,2016-08-22,questions I
+A888,Q5,2016-05-26,answer. it. questions
+A255,Q29,2016-06-15,There answer.
+A621,Q54,2016-07-21,questions I
+A771,Q41,2016-08-26,Because do are Because
+A866,Q19,2016-08-03,without do are Because
+A233,Q44,2016-08-05,without it.
+A599,Q69,2016-09-10,I There
+A930,Q21,2016-06-14,it. questions do
+A297,Q45,2016-07-04,answer. I
+A663,Q70,2016-08-09,I There
+A230,Q94,2016-05-13,don't without
+A361,Q46,2016-06-18,are Because don't
+A926,Q70,2016-07-08,it. are
+A293,Q95,2016-08-13,don't without
+A660,Q21,2016-05-17,questions I
+A719,Q25,2016-05-22,answer. I questions do There
+A50,Q76,2016-07-10,I questions do
+A416,Q1,2016-07-29,Because I
+A782,Q26,2016-09-03,it. There
+A841,Q31,2016-06-07,don't answer. it. questions I
+A173,Q82,2016-06-24,answer. it. questions
+A539,Q7,2016-07-14,There answer.
+A905,Q32,2016-08-19,questions I
+A273,Q57,2016-05-23,Because don't
+A332,Q61,2016-05-27,do are Because don't without
+A391,Q66,2016-07-16,are I don't answer. it.
+A522,Q18,2016-08-02,I don't answer.
+A88,Q42,2016-08-21,questions I
+A454,Q67,2016-05-25,Because it.
+A785,Q19,2016-06-30,do are Because
+A152,Q43,2016-07-20,without do
+A518,Q68,2016-08-25,Because I
+A613,Q47,2016-08-29,it. questions Because don't
+A672,Q52,2016-05-31,it. questions I There answer.
+A275,Q49,2016-06-17,questions
+A641,Q73,2016-08-10,There answer.
+A736,Q52,2016-05-14,questions do There Because
+A795,Q58,2016-05-16,without it. There Because I
+A854,Q62,2016-06-02,it. questions Because don't without
+A185,Q14,2016-07-21,questions I There
+A317,Q65,2016-08-09,I questions do
+A683,Q89,2016-08-29,answer. I
+A249,Q15,2016-06-02,do There
+A616,Q39,2016-07-08,don't without
+A946,Q90,2016-08-13,are I don't
+A313,Q15,2016-09-02,it. are
+A679,Q41,2016-06-06,don't without
+A774,Q19,2016-06-10,questions do There Because
+A377,Q16,2016-07-14,questions
+A472,Q94,2016-09-06,There Because I without
+A531,Q99,2016-09-08,There Because I without do
+A590,Q4,2016-05-24,Because don't without it. are
+A776,Q65,2016-07-12,don't answer. it.
+A107,Q16,2016-06-03,answer. I questions
+A166,Q21,2016-07-25,There answer. I without do
+A26,Q26,2016-08-11,Because I without do are
+A85,Q31,2016-08-28,don't without it. are I
+A144,Q36,2016-05-13,without it. are I There
+A203,Q40,2016-05-30,it. questions I There answer.
+A262,Q45,2016-07-18,questions do There Because I
+A393,Q97,2016-08-04,do There Because
+A959,Q22,2016-08-23,answer. it.
+A91,Q73,2016-05-27,I don't answer.
+A656,Q97,2016-06-16,questions I
+A23,Q23,2016-07-22,answer. it.
+A390,Q48,2016-08-27,do There
+A449,Q52,2016-09-01,I without do are Because
+A779,Q4,2016-06-18,without do are
+A146,Q28,2016-07-07,don't without
+A512,Q53,2016-08-12,questions I
+A571,Q58,2016-05-16,answer. I questions do There
+A703,Q10,2016-06-02,I questions do
+A269,Q34,2016-06-22,Because I
+A635,Q59,2016-07-28,do There
+A3,Q84,2016-09-02,don't answer.
+A62,Q88,2016-09-06,are I don't answer. it.
+A392,Q40,2016-06-24,I There answer.
+A758,Q64,2016-07-13,questions I
+A125,Q90,2016-08-18,Because it.
+A184,Q94,2016-08-22,do are Because don't without
+A515,Q46,2016-06-08,are Because don't
+A881,Q70,2016-06-28,it. are
+A248,Q95,2016-08-03,don't without
+A343,Q74,2016-08-07,questions do There answer.
+A402,Q79,2016-09-10,questions do There Because I
+A5,Q76,2016-05-26,do
+A371,Q1,2016-07-19,Because I
+A466,Q79,2016-08-24,it. are Because don't
+A525,Q85,2016-08-26,it. questions Because don't without
+A584,Q89,2016-09-12,questions do There answer. it.
+A914,Q41,2016-06-29,do There Because
+A47,Q92,2016-07-18,without do are
+A413,Q17,2016-08-07,I without
+A978,Q42,2016-09-12,are Because
+A346,Q66,2016-06-16,answer. it.
+A676,Q18,2016-07-22,I There answer.
+A43,Q42,2016-08-11,questions I
+A409,Q68,2016-05-15,Because it.
+A504,Q46,2016-05-19,do are Because don't
+A107,Q43,2016-06-22,do
+A256,Q31,2016-08-15,Because don't are Because
+A387,Q82,2016-07-22,answer. it. questions
+A718,Q34,2016-08-10,There answer. I
+A85,Q58,2016-08-30,I There
+A650,Q83,2016-06-03,it. questions
+A18,Q8,2016-07-09,are Because
+A348,Q59,2016-08-14,without do are
+A714,Q83,2016-09-03,don't without
+A81,Q18,2016-06-07,questions Because
+A267,Q69,2016-05-17,questions I There
+A633,Q93,2016-06-05,it. questions
+A199,Q19,2016-07-11,There Because
+A331,Q70,2016-08-16,without do are
+A697,Q94,2016-09-05,I without
+A263,Q20,2016-06-09,are Because
+A630,Q44,2016-07-15,answer. it.
+A960,Q95,2016-08-20,I There answer.
+A327,Q20,2016-09-09,questions I
+A693,Q45,2016-06-13,answer. it.
+A788,Q24,2016-06-17,do are Because don't
+A391,Q21,2016-07-21,do
+A486,Q99,2016-05-12,Because don't without it.
+A545,Q5,2016-05-14,Because don't without it. are
+A604,Q9,2016-05-31,don't answer. it. questions I
+A934,Q61,2016-07-19,answer. it. questions
+A302,Q85,2016-08-07,are Because
+A433,Q37,2016-09-12,without do are
+A998,Q61,2016-05-31,don't without
+A365,Q86,2016-07-06,are Because
+A732,Q12,2016-08-11,answer. I
+A791,Q16,2016-08-16,I There answer. I questions
+A122,Q67,2016-06-02,There Because I
+A488,Q91,2016-06-21,do There
+A854,Q18,2016-07-27,don't questions
+A913,Q22,2016-07-31,are I don't answer. it.
+A245,Q73,2016-05-17,I don't answer.
+A611,Q97,2016-06-06,questions I
+A977,Q23,2016-07-12,answer. it.
+A73,Q2,2016-08-17,do are Because I
+A675,Q98,2016-08-19,do
+A42,Q24,2016-06-10,Because don't
+A137,Q2,2016-06-14,do are Because don't
+A196,Q8,2016-07-18,it. questions I don't answer.
+A255,Q13,2016-08-04,questions do don't answer. it.
+A314,Q17,2016-08-21,do are Because I questions
+A645,Q68,2016-06-07,are Because don't
+A776,Q20,2016-06-26,it. are I
+A143,Q44,2016-07-16,without it.
+A708,Q69,2016-08-21,I don't
+A76,Q93,2016-05-25,I questions
+A406,Q45,2016-06-30,There Because I
+A627,Q79,2016-07-20,Because I
+A958,Q31,2016-06-28,do are I
+A325,Q55,2016-07-18,without it.
+A691,Q79,2016-08-23,Because don't
+A257,Q5,2016-05-27,I questions
+A389,Q56,2016-07-02,There answer. I
+A954,Q80,2016-07-22,I There
+A321,Q6,2016-08-27,I questions
+A688,Q30,2016-05-31,are Because
+A747,Q35,2016-07-06,without it. are I don't
+A78,Q86,2016-07-23,it. are I
+A444,Q11,2016-08-12,answer. it.
+A810,Q36,2016-05-16,do don't
+A142,Q87,2016-06-21,I without do
+A508,Q12,2016-07-10,Because I
+A874,Q37,2016-08-16,do There
+A969,Q16,2016-08-20,don't answer. do are
+A29,Q21,2016-05-22,don't answer. it. are I
+A88,Q25,2016-06-08,answer. I questions do don't
+A690,Q23,2016-07-27,I
+A57,Q47,2016-08-18,do There
+A423,Q72,2016-05-22,I questions
+A518,Q51,2016-05-26,are I don't answer.
+A121,Q48,2016-06-29,are
+A487,Q73,2016-08-22,don't answer.
+A582,Q52,2016-08-26,questions I don't answer.
+A641,Q57,2016-05-28,questions do are answer. I
+A700,Q62,2016-06-14,do are Because I questions
+A759,Q66,2016-07-01,are I don't answer. do
+A854,Q45,2016-08-19,I don't answer. I
+A222,Q69,2016-08-21,I There
+A588,Q93,2016-05-26,it. questions
+A154,Q19,2016-07-01,are answer.
+A286,Q70,2016-08-06,without do are
+A851,Q94,2016-08-25,don't without
+A218,Q19,2016-05-30,are Because
+A584,Q45,2016-07-05,answer. it.
+A643,Q49,2016-07-09,I There answer. I questions
+A974,Q1,2016-08-27,There answer. I
+A341,Q25,2016-05-15,do There
+A707,Q50,2016-06-20,I questions
+A802,Q29,2016-07-26,are I don't without
+A405,Q26,2016-07-28,are
+A771,Q51,2016-05-19,don't answer.
+A866,Q29,2016-05-23,questions I don't answer.
+A925,Q35,2016-06-26,questions do There answer. I
+A40,Q48,2016-07-13,do are Because I are
+A135,Q26,2016-07-04,don't without it. are
+A194,Q31,2016-08-08,don't without it. questions I
+A54,Q36,2016-08-25,answer. it. questions I There
+A113,Q41,2016-09-11,I questions do There Because
+A172,Q46,2016-05-27,questions do There Because don't
+A231,Q50,2016-06-13,do are Because don't without
+A561,Q2,2016-08-01,are I don't
+A927,Q27,2016-08-20,I questions
+A259,Q78,2016-05-24,There answer. I
+A625,Q3,2016-06-13,do There
+A991,Q28,2016-07-19,I questions
+A87,Q7,2016-08-24,are I don't without
+A146,Q12,2016-08-26,are I don't answer. do
+A748,Q9,2016-09-12,I
+A115,Q33,2016-07-04,answer. it.
+A481,Q59,2016-08-09,do There
+A576,Q37,2016-08-13,I without do are
+A179,Q35,2016-05-15,I
+A274,Q13,2016-06-06,do are Because don't
+A333,Q18,2016-07-10,do are Because don't answer.
+A392,Q22,2016-07-27,are I don't answer. it.
+A451,Q27,2016-05-13,do There answer. I questions
+A582,Q79,2016-05-30,are answer. I
+A149,Q4,2016-06-18,it. are
+A280,Q55,2016-07-25,don't without it.
+A845,Q79,2016-08-13,I don't
+A212,Q5,2016-05-17,I are
+A543,Q56,2016-06-22,There answer. I
+A909,Q80,2016-07-12,do There
+A276,Q5,2016-08-17,I questions
+A371,Q84,2016-05-21,are I I without
+A485,Q97,2016-05-23,are I don't answer. I
+A580,Q75,2016-05-15,answer. it. questions I
+A639,Q80,2016-06-18,answer. it. questions do There
+A499,Q85,2016-07-05,I questions do There Because
+A558,Q90,2016-07-22,without do are Because don't
+A617,Q95,2016-08-08,do are Because don't answer.
+A676,Q99,2016-08-25,are I don't answer. it.
+A7,Q52,2016-06-11,I There answer.
+A374,Q76,2016-06-30,without do
+A704,Q28,2016-08-05,Because I without
+A71,Q52,2016-08-25,are Because
+A437,Q77,2016-05-29,without do
+A532,Q56,2016-07-04,I There answer. it.
+A135,Q53,2016-07-06,I
+A501,Q78,2016-08-29,answer. I
+A596,Q57,2016-09-02,do There answer. I
+A655,Q62,2016-06-04,do are Because I without
+A714,Q66,2016-06-21,are I don't without do
+A773,Q71,2016-07-08,I There answer. I are
+A105,Q23,2016-08-26,There answer. I
+A236,Q74,2016-05-13,do There Because
+A602,Q98,2016-06-02,questions do
+A168,Q24,2016-07-08,Because I
+A535,Q48,2016-08-13,it. are
+A865,Q99,2016-05-18,don't answer. it.
+A87,Q34,2016-08-11,answer. I
+A418,Q85,2016-05-15,I There answer.
+A784,Q10,2016-06-04,questions do
+A151,Q35,2016-07-10,answer. I
+A717,Q59,2016-08-15,it. are
+A848,Q11,2016-05-19,don't without it.
+A414,Q35,2016-06-08,Because don't
+A780,Q60,2016-07-14,it. are
+A148,Q84,2016-08-19,There answer.
+A207,Q89,2016-05-23,questions do There Because I
+A338,Q41,2016-06-10,do There Because
+A903,Q65,2016-06-29,without do
+A90,Q26,2016-08-04,without it. are
+A456,Q51,2016-07-29,don't answer.
+A822,Q76,2016-08-02,are I
+A389,Q1,2016-09-07,answer. I
+A520,Q52,2016-06-11,do There Because
+A886,Q76,2016-07-01,questions do
+A452,Q2,2016-08-06,Because I
+A819,Q26,2016-09-11,it. are
+A150,Q77,2016-06-15,don't without it.
+A516,Q2,2016-07-05,I don't
+A882,Q27,2016-08-10,I are
+A941,Q32,2016-05-14,There Because I without I
+A273,Q83,2016-05-31,Because I without
+A639,Q8,2016-06-20,are Because
+A6,Q32,2016-07-26,without do
+A372,Q58,2016-08-31,I There
+A432,Q62,2016-09-04,it. questions I There answer.
+A491,Q67,2016-06-21,questions do There Because I
+A622,Q19,2016-07-08,do There Because
+A188,Q43,2016-07-28,without do
+A554,Q68,2016-09-02,I I
+A885,Q20,2016-06-06,it. questions I
+A252,Q44,2016-06-25,answer. it.
+A618,Q68,2016-08-01,I don't
+A713,Q48,2016-08-05,I without I There
+A772,Q53,2016-09-08,I without do There Because
+A831,Q57,2016-05-24,without it. are I I
+A926,Q36,2016-07-12,it. questions I There
+A294,Q60,2016-07-14,it. questions
+A859,Q84,2016-08-20,don't answer.
+A226,Q10,2016-05-24,without I
+A358,Q61,2016-06-29,Because I without
+A923,Q85,2016-07-18,are Because
+A290,Q10,2016-08-24,without do
+A656,Q36,2016-05-28,I There
+A715,Q40,2016-06-01,it. questions I There answer.
+A47,Q91,2016-07-20,questions do There
+A413,Q16,2016-08-09,I questions
+A779,Q42,2016-05-13,There answer.
+A929,Q28,2016-05-17,without it. are Because
+A25,Q7,2016-05-26,are Because don't answer.
+A391,Q31,2016-05-28,are I
+A757,Q56,2016-07-03,answer. it.
+A89,Q8,2016-08-08,do There Because
+A455,Q32,2016-08-28,questions do
+A21,Q56,2016-06-01,Because I
+A387,Q81,2016-07-07,it. are
+A718,Q33,2016-08-12,don't without it.
+A85,Q57,2016-09-01,I don't
+A451,Q82,2016-06-05,it. are
+A546,Q61,2016-07-11,There Because I questions
+A149,Q58,2016-07-13,There
+A515,Q83,2016-09-05,I questions
+A610,Q61,2016-09-09,are Because I without
+A669,Q67,2016-06-11,are I don't without it.
+A728,Q71,2016-06-28,I There answer. it. are
+A787,Q76,2016-08-16,There Because I questions I
+A119,Q28,2016-09-02,Because I without
+A250,Q79,2016-05-20,are Because don't
+A616,Q4,2016-06-09,do are
+A182,Q29,2016-07-15,don't without
+A549,Q53,2016-08-20,questions I
+A879,Q5,2016-05-25,answer. it. questions
+A246,Q29,2016-06-13,There answer.
+A612,Q54,2016-07-19,without I
+A671,Q59,2016-08-24,Because don't without it. are
+A3,Q11,2016-09-10,don't without it.
+A369,Q35,2016-05-29,I don't
+A735,Q60,2016-07-04,it. are
+A103,Q85,2016-08-09,There Because
+A162,Q89,2016-08-13,questions do There Because I
+A492,Q41,2016-05-30,do are Because
+A858,Q65,2016-06-19,without do
+A225,Q91,2016-07-25,Because I
+A320,Q69,2016-07-29,it. questions I There
+A922,Q66,2016-09-01,it.
+A18,Q45,2016-06-23,I There answer. I
+A77,Q50,2016-06-25,I There answer. I without
+A136,Q54,2016-07-12,There Because I without do
+A466,Q7,2016-08-30,I don't without
+A833,Q31,2016-05-17,questions I
+A19,Q91,2016-08-28,are I There
+A385,Q17,2016-05-15,I questions
+A752,Q41,2016-06-20,There Because
+A83,Q92,2016-07-27,without do are
+A449,Q17,2016-08-15,I without
+A15,Q42,2016-05-19,are I
+A147,Q93,2016-06-24,answer. it. questions
+A513,Q18,2016-07-14,don't answer.
+A79,Q43,2016-08-19,questions I
+A446,Q67,2016-05-23,Because I
+A776,Q19,2016-06-28,do are Because
+A143,Q43,2016-07-18,without do
+A509,Q69,2016-08-23,Because I
+A604,Q47,2016-08-27,it. questions I don't
+A207,Q44,2016-05-29,it.
+A302,Q23,2016-07-22,I There answer. I
+A361,Q28,2016-07-24,I There answer. I questions
+A420,Q32,2016-08-10,There Because I without do
+A750,Q84,2016-05-27,Because don't without
+A117,Q9,2016-06-15,questions I
+A448,Q60,2016-07-21,answer. it. questions
+A814,Q84,2016-08-10,There answer.
+A181,Q10,2016-05-14,questions I
+A548,Q35,2016-06-19,Because don't
+A607,Q39,2016-06-23,do are Because don't without
+A666,Q44,2016-08-12,are I don't answer. it.
+A797,Q95,2016-08-29,I don't answer.
+A363,Q20,2016-05-16,questions I
+A729,Q45,2016-06-21,Because I
+A61,Q96,2016-07-27,do are Because
+A427,Q21,2016-08-16,without do
+A793,Q46,2016-05-20,Because I
+A888,Q25,2016-05-24,it. questions I don't
+A491,Q22,2016-06-27,it.
+A586,Q1,2016-08-20,I There answer. I
+A645,Q6,2016-08-22,I There answer. I questions
+A704,Q10,2016-09-08,There Because I without do
+A35,Q61,2016-06-25,Because I without
+A401,Q86,2016-07-14,questions I
+A533,Q38,2016-08-19,answer. it. questions
+A99,Q62,2016-09-08,There answer.
+A465,Q87,2016-06-12,questions I
+A832,Q13,2016-07-18,Because don't
+A891,Q17,2016-07-22,do are Because don't without
+A222,Q68,2016-09-09,are I don't
+A588,Q92,2016-05-28,it. are
+A954,Q19,2016-07-03,There without
+A869,Q32,2016-07-07,questions do There Because do
+A200,Q83,2016-06-29,answer. I without
+A566,Q9,2016-07-18,There Because
+A932,Q33,2016-08-23,without it.
+A264,Q84,2016-05-27,I don't answer.
+A630,Q9,2016-06-16,are I
+A196,Q34,2016-07-22,answer. it.
+A563,Q58,2016-08-27,do There
+A893,Q10,2016-05-31,I questions do
+A260,Q34,2016-06-20,Because I
+A626,Q59,2016-07-26,it. There
+A685,Q64,2016-08-31,don't answer. it. questions Because
+A817,Q16,2016-05-16,answer. it. questions
+A383,Q40,2016-06-05,There answer.
+A749,Q64,2016-07-11,questions I
+A116,Q90,2016-08-16,Because don't
+A176,Q94,2016-08-20,do are Because don't without
+A506,Q46,2016-06-06,are I don't
+A872,Q70,2016-06-26,it. are
+A239,Q96,2016-08-01,don't without
+A334,Q74,2016-08-05,questions do There Because
+A936,Q71,2016-09-08,questions
+A32,Q50,2016-06-30,There Because I without
+A91,Q55,2016-07-02,There Because I without do
+A150,Q59,2016-07-19,Because don't without it. are
+A480,Q12,2016-09-06,don't without it.
+A847,Q36,2016-05-24,do There
+A178,Q87,2016-06-29,I questions do
+A544,Q12,2016-07-19,Because I
+A910,Q37,2016-08-24,do There
+A278,Q62,2016-05-28,don't answer.
+A337,Q66,2016-06-02,are I don't answer. it.
+A396,Q71,2016-07-21,I There answer. I questions
+A527,Q23,2016-08-07,There answer. I
+A93,Q47,2016-08-26,do There
+A459,Q72,2016-05-30,don't without
+A790,Q24,2016-07-05,are I don't
+A157,Q48,2016-07-25,it. are
+A523,Q73,2016-08-30,don't without
+A618,Q52,2016-09-03,questions do There answer.
+A221,Q49,2016-06-05,questions
+A316,Q28,2016-07-29,There Because I without
+A375,Q33,2016-07-31,There Because I without do
+A434,Q37,2016-08-17,Because don't without it. are
+A764,Q88,2016-06-03,don't without it.
+A131,Q14,2016-06-22,do There
+A263,Q65,2016-07-28,I questions do
+A828,Q89,2016-08-17,Because I
+A195,Q15,2016-05-21,do There
+A562,Q40,2016-06-26,don't answer.
+A476,Q53,2016-06-30,are without it. are I
+A806,Q5,2016-06-22,answer. it. questions
+A173,Q30,2016-07-11,There answer.
+A504,Q81,2016-08-16,questions do are
+A870,Q6,2016-09-05,I without
+A237,Q30,2016-06-09,There Because
+A802,Q55,2016-07-15,answer. it.
+A934,Q7,2016-08-20,I don't answer.
+A500,Q31,2016-09-09,are I
+A866,Q56,2016-06-13,answer. it.
+A234,Q80,2016-07-19,do There
+A293,Q85,2016-07-23,I without do are Because
+A623,Q37,2016-09-11,without do are
+A989,Q61,2016-05-29,don't without
+A356,Q86,2016-07-04,questions Because
+A415,Q91,2016-08-09,answer. I questions do There
+A547,Q43,2016-08-26,I questions do
+A113,Q67,2016-05-14,Because I
+A479,Q92,2016-06-19,do There
+A845,Q18,2016-07-25,don't answer.
+A905,Q22,2016-07-29,are I don't answer. it.
+A236,Q73,2016-05-15,I There answer.
+A602,Q97,2016-06-04,questions I
+A968,Q24,2016-07-10,answer. it.
+A64,Q2,2016-07-14,do are Because don't
+A666,Q98,2016-08-17,do
+A761,Q77,2016-06-08,Because don't without it.
+A820,Q82,2016-06-10,Because don't without it. are
+A879,Q86,2016-06-27,don't answer. it. questions I
+A210,Q39,2016-08-15,answer. it. questions
+A577,Q63,2016-09-03,are Because
+A708,Q15,2016-06-07,without do are
+A274,Q39,2016-06-27,don't without
+A640,Q64,2016-08-02,are Because
+A8,Q89,2016-09-07,answer. I
+A67,Q93,2016-09-12,I There answer. I questions
+A397,Q45,2016-06-29,There Because I

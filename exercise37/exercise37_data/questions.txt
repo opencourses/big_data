@@ -1,0 +1,100 @@
+Q1,2016-07-31,things is phrase What next?
+Q2,2016-07-07,meanless?
+Q3,2016-06-18,way?
+Q4,2016-07-01,phrase What next doing?
+Q5,2016-05-23,of because?
+Q6,2016-08-25,is way things?
+Q7,2016-08-04,Where the a of?
+Q8,2016-09-07,phrase What next?
+Q9,2016-09-09,meanless Why because?
+Q10,2016-07-24,What next?
+Q11,2016-07-20,meanless Where because a?
+Q12,2016-05-16,way things?
+Q13,2016-05-12,What next of?
+Q14,2016-08-23,Why is way things?
+Q15,2016-08-16,What?
+Q16,2016-08-29,this?
+Q17,2016-08-10,is way things is?
+Q18,2016-08-03,next?
+Q19,2016-07-15,meanless?
+Q20,2016-06-26,way?
+Q21,2016-07-09,phrase What next doing?
+Q22,2016-07-02,Where is way?
+Q23,2016-06-11,phrase What?
+Q24,2016-06-06,this meanless Where the?
+Q25,2016-08-31,is phrase What?
+Q26,2016-09-10,this meanless?
+Q27,2016-09-06,of because is phrase What?
+Q28,2016-08-14,this meanless Where the a?
+Q29,2016-05-24,way things?
+Q30,2016-05-20,Where the of?
+Q31,2016-05-31,Why is?
+Q32,2016-08-26,is phrase What next of?
+Q33,2016-09-04,Why is way things is?
+Q34,2016-08-11,next?
+Q35,2016-07-23,a?
+Q36,2016-08-05,way things is phrase?
+Q37,2016-06-27,doing this a?
+Q38,2016-07-08,way things?
+Q39,2016-06-01,What?
+Q40,2016-06-14,this meanless Where?
+Q41,2016-05-24,things is phrase What?
+Q42,2016-05-17,this?
+Q43,2016-08-30,the?
+Q44,2016-09-12,is phrase What next?
+Q45,2016-08-04,meanless Where the of?
+Q46,2016-07-29,phrase?
+Q47,2016-07-10,doing?
+Q48,2016-07-22,Where the of because?
+Q49,2016-07-16,What?
+Q50,2016-06-27,this?
+Q51,2016-06-07,the?
+Q52,2016-06-20,a Why What?
+Q53,2016-05-30,this meanless Where the?
+Q54,2016-05-23,a?
+Q55,2016-09-05,next?
+Q56,2016-05-17,meanless?
+Q57,2016-08-29,of because a Why?
+Q58,2016-08-23,things?
+Q59,2016-08-04,Where?
+Q60,2016-07-16,because?
+Q61,2016-07-28,is way things?
+Q62,2016-07-07,Where the of because?
+Q63,2016-06-30,is way?
+Q64,2016-06-26,phrase doing this?
+Q65,2016-08-10,is way things is?
+Q66,2016-08-03,next doing?
+Q67,2016-07-30,Where the of?
+Q68,2016-07-09,phrase What next doing?
+Q69,2016-07-02,Where?
+Q70,2016-06-13,because?
+Q71,2016-06-26,What next doing this?
+Q72,2016-06-19,the of?
+Q73,2016-05-14,phrase What next doing this?
+Q74,2016-05-22,the of because a Why?
+Q75,2016-08-31,doing?
+Q76,2016-08-12,Where?
+Q77,2016-08-24,because a Why is?
+Q78,2016-07-17,this meanless Where?
+Q79,2016-07-27,because a?
+Q80,2016-06-21,way things this meanless Where?
+Q81,2016-06-30,because a Why is way?
+Q82,2016-06-06,phrase?
+Q83,2016-05-18,of?
+Q84,2016-05-31,Why is way things?
+Q85,2016-08-24,What the of?
+Q86,2016-09-04,Why is?
+Q87,2016-07-29,is?
+Q88,2016-08-11,next doing because?
+Q89,2016-07-21,is way things is?
+Q90,2016-07-14,next?
+Q91,2016-06-25,a?
+Q92,2016-07-08,way things is phrase?
+Q93,2016-05-30,doing this meanless?
+Q94,2016-06-10,way things?
+Q95,2016-06-05,What?
+Q96,2016-05-17,this meanless Where?
+Q97,2016-08-28,things is phrase What?
+Q98,2016-08-21,this meanless?
+Q99,2016-08-17,of things is?
+Q100,2016-07-27,next doing this meanless?

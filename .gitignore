@@ -17,3 +17,6 @@ hs_err_pid*
 
 # Mac OSX
 /.DS_STORE
+
+#Exercise
+/exercise*_out
