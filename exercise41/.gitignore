@@ -1,0 +1,7 @@
+/target/
+.settings/
+.project
+.classpath
+
+# Do not track the big amazon review file
+exercise41_data/amazon_review.csv
